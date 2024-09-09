@@ -1,0 +1,31 @@
+div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#button-container {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+#button-count {
+    width: 130px;
+}
+
+#start-button {
+    height: 20px;
+    width: 40px;
+    font-size: 15px;
+}
+
+button {
+    height: 5em;
+    width: 10em;
+    font-size: 16px;
+    position: relative;
+}
