@@ -1,3 +1,6 @@
+/* ChatGPT Acknowledgement:
+    This is to acknowledge that I have used the assistance of ChatGPT for various explainations and code generation whenever I found myself stuck and in need of help. */
+
 import { message } from "../lang/messages/en/user.js";
 
 class Button {
